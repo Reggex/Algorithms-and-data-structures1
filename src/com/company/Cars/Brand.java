@@ -1,9 +1,9 @@
 package com.company.Cars;
 
 public enum Brand {
-    KIA("Киа"), //рио и соул
-    SKODA("Шкода"), //октавия,суперб
-    TOYOTA("Тойота"); //камри
+    KIA("Киа"),
+    SKODA("Шкода"),
+    TOYOTA("Тойота");
 
     private final String name;
 
